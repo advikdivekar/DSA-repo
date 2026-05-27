@@ -17,3 +17,6 @@ public class largestelement_brute {
         System.out.println("largest element:" + largest);  
     }
 }
+
+//Time complexity: O(nlogn) where n is the number of elements in the array due to sorting
+//Space complexity: O(1) as we are using only one variable to store the largest element.

@@ -20,3 +20,6 @@ public class largestelement_optimal{
         System.out.println("Largest element:" + largest);
     }
 }
+
+//Time complexity: O(n) where n is the number of elements in the array
+//Space complexity: O(1) as we are using only one variable to store the largest element.
